@@ -4,10 +4,13 @@
 - [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923): Tai-Danae Bradley's paper. Start here.
 
 ## Courses
-- Fong, Spivak and Milewski's Programming with Categories
-  - [Programming with Categories on Youtube](https://www.youtube.com/watch?v=NUBEB9QlNCM&list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS&index=2)
-  - [Fong's site](http://brendanfong.com/programmingcats.html)
-
+- [Programming with Categories ](http://brendanfong.com/programmingcats.html): By Brendan Fong, David Spivak and 
+Bartosz Milewski.
+  - > Summary: In this course we explain how category theory—a branch of mathematics known for its ability to organize the key abstractions that structure much of the mathematical universe—has become useful for writing elegant and maintainable code. In particular, we'll use examples from the Haskell programming language to motivate category-theoretic constructs, and then explain these constructs from a more abstract and inclusive viewpoint. Hands-on programming exercises will be used to demonstrate categorical ideas like "the universal property of products" in working Haskell code.
+- [Abstract Algebra](https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra) by Benedict Gross 
+at Harvard. 
+  - > Algebra is the language of modern mathematics. This course introduces students to that language through a study of groups, group actions, vector spaces, linear algebra, and the theory of fields. In these free videotaped lectures, Professor Gross presents an array of algebraic concepts.
+  
 ## Video
 - [A Crash Course in Category Theory](https://www.youtube.com/watch?v=JH_Ou17_zyU): by Bartosz Milewski.
   - >Programming is math and math is programming. But the kind of math that's useful in programming is not what they teach you in school. In fact it's much more interesting. Category theory seems to be esoteric when presented by mathematicians, because all their examples come from other branches of mathematics. But when you use examples from programming, things suddenly becomes quite obvious. And the reason there is such a close fit between category theory and programming is quite simple: both are built on the principle of composability.
