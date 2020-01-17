@@ -12,4 +12,5 @@ Start here for math related topics.
 - [Abstract Algebra by Benedict Gross at Havard](https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra)
 
 ## Advanced
+- [Category theory resources on study-groups](./category-theory): resources for learning category theory.
 - [Lectures on Geometrical Anatomy of Theoretical Physics](https://www.youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic): Series of lectures - "Lectures on the Geometric Anatomy of Theoretical Physics" delivered by Dr.Frederic P Schuller.
