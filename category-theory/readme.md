@@ -1,7 +1,7 @@
 # Resources for studying category theory
 
 ## Books and Papers
-- [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923): Tai-Danae Bradley's excellent paper. Start here.
+- [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923): Tai-Danae Bradley's paper. Start here.
 
 ## Courses
 - Fong, Spivak and Milewski's Programming with Categories
@@ -19,6 +19,9 @@
 original series.
 
 ## Advanced theory and application
+- [https://www.youtube.com/watch?v=12j8OV-ptC4](Tai-Danae Bradley: Modeling Language with Tensor Networks)
+  - >Abstract: Natural language has both a compositional and a statistical structure. These structures emerge when expressions in language combine to form longer expressions, and where the validity of an expression is captured by the statistics in the language. One model for this is a monoidal functor from a category of grammar to an appropriate semantics category. Another modeling choice is to let statistics serve as a proxy for grammar, taking inspiration from quantum probability theory. This talk features the latter. I’ll share an elementary passage from classical probability to quantum probability and use it to describe a tensor network model for language.
+
 - [AFOSR_Proposal--Agent_Interaction_II--2018](http://math.mit.edu/~dspivak/informatics/grants/AFOSR_Proposal--Agent_Interaction_II--2018.pdf): Spivak's proposal suggesting the application of category theory on
 a broad look at machine learning.
 
