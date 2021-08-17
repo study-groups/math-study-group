@@ -2,6 +2,8 @@
 
 ## Books and Papers
 - [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923): Tai-Danae Bradley's paper. Start here.
+- [An Introduction to Category Theory](http://web.stanford.edu/~truax/notes/Category_Theory.pdf): by Robin Truax.
+- [The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/tree/master/TheDaoOfFP): by Bartosz Milewski.
 
 ## Courses
 - [Applied Category Theory Youtube](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5):  Videos of [2019 MIT  Applied Category Theory](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/) by Brendan Fong and David Spivak. 
