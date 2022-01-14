@@ -2,7 +2,8 @@
 
 ## Books and Papers
 - [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923): Tai-Danae Bradley's paper. Start here.
-- [seven sketches](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/lecture-videos-and-readings/18-s097iap19textbook.pdf): Spivak and Fong's work.
+- [John Baez's summary](https://math.ucr.edu/home/baez/categories.html)
+- [Seven Sketches in Compositionality](https://ocw.mit.edu/courses/mathematics/18-s097-applied-category-theory-january-iap-2019/lecture-videos-and-readings/18-s097iap19textbook.pdf): Spivak and Fong's work.
 - [Topology: A Categorical Approach](https://topology.mitpress.mit.edu/): A graduate-level textbook that presents basic topology from the perspective of category theory.
 
 - [The Dao of Functional Programming](https://github.com/BartoszMilewski/Publications/tree/master/TheDaoOfFP): by Bartosz Milewski.
