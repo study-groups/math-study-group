@@ -1,5 +1,7 @@
 # Resources for studying category theory
 
+["Categories for the Working Hacker" by Philip Wadler](https://www.youtube.com/watch?v=gui_SE8rJUM): good technical intro that hits the sweet spot of notational choice, topic selection and relevance to thining categorically.
+
 ## Books and Papers
 - [What is Applied Category Theory?](https://arxiv.org/abs/1809.05923): Tai-Danae Bradley's paper. Start here.
 - [John Baez's summary](https://math.ucr.edu/home/baez/categories.html)
@@ -24,6 +26,9 @@ at Harvard.
   
 ## Video
 ### Introductions
+
+- ["Categories for the Working Hacker" by Philip Wadler](https://www.youtube.com/watch?v=gui_SE8rJUM): good technical intro that hits the sweet spot of notational choice, topic selection and relevance to thining categorically.
+
 - [A Crash Course in Category Theory at F(by) 2017](https://www.youtube.com/watch?v=iJ7V1KXJpsE): Intro with emphasis on Types: Void, Unit, Product, Coproduct (sum). The monoidal categories for Product, Coproduct and Natural Transformation (category where objects are functors) are presented. 
 
 - [A Crash Course in Category Theory at ScalaIO France 2017](https://www.youtube.com/watch?v=JH_Ou17_zyU): by Bartosz Milewski. More detail than the F-by version. This one has a great explanation of Yoneda embedding which is a special case of the the [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma).
